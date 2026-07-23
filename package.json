@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-finanzas-toni",
+  "version": "1.0.0",
+  "description": "Proyecto integrador de análisis económico y financiero de Industrias Lácteas Toni S.A.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
